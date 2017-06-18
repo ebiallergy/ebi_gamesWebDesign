@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"bgUrl": "http://www.mh-xr.jp/contents/v6_0ud/common/img/thumb.jpg",
+		"date": "2017.05.09",
+		"title": "モンスターハンターエクスプロア",
+		"caption": "2017年4月26日（水）Ver6.0大型アップデート！",
+		"publisher": "CAPCOM",
+		"category": "ACG",
+		"model": "iOS/Android",
+		"scoreDesign": 7,
+		"scoreUsability": 9,
+		"scoreSpeed": 10,
+		"scoreHart": 4,
+		"url": "http://www.mh-xr.jp/contents/v6_0ud/",
+		"comment": "かっこいいですね。"
+	},
+	{
+		"id": 2,
+		"bgUrl": "https://another-eden.jp/img/ogimage2.png",
+		"date": "2017.05.09",
+		"title": "モンスターハンターフロンティア",
+		"caption": "2017年4月26日（水）Ver6.0大型アップデート！",
+		"publisher": "CAPCOM",
+		"category": "ACG",
+		"model": "iOS/Android",
+		"scoreDesign": 6,
+		"scoreUsability": 3,
+		"scoreSpeed": 4,
+		"scoreHart": 10,
+		"url": "http://www.mh-xr.jp/contents/v6_0ud/",
+		"comment": "しびれるぜ"
+	},
+	{
+		"id": 3,
+		"bgUrl": "http://www.mh-xr.jp/contents/v6_0ud/common/img/thumb.jpg",
+		"date": "2017.05.09",
+		"title": "モンスターハンターエクスプロア",
+		"caption": "2017年4月26日（水）Ver6.0大型アップデート！",
+		"publisher": "CAPCOM",
+		"category": "ACG",
+		"model": "iOS/Android",
+		"scoreDesign": 2,
+		"scoreUsability": 4,
+		"scoreSpeed": 8,
+		"scoreHart": 8,
+		"url": "http://www.mh-xr.jp/contents/v6_0ud/",
+		"comment": "最高！"
+	}
+]
