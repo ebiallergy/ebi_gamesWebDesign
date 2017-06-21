@@ -240,7 +240,7 @@ main
   width: 100%; }
   .col-2 .col {
     display: table-cell;
-    vertical-align: top; }
+    vertical-align: bottom; }
 
 .list-btn li {
   display: inline-block;
@@ -263,7 +263,8 @@ main
   font-size: 1.2rem; }
 
 .btn-score {
-  text-align: right; }
+  text-align: right;
+  min-width: 82px; }
   .btn-score a {
     background: #e15454; }
 
