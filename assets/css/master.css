@@ -139,10 +139,13 @@ main
 .list-data {
   margin: 0 auto;
   max-width: 900px;
-  width: 100%; }
+  width: 100%;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
   .list-data > li {
     position: relative;
-    float: left;
     overflow: hidden;
     margin: 10px 2% 0;
     width: 96%;
@@ -153,6 +156,8 @@ main
     .list-data > li .media {
       display: block;
       box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.2); }
+      .list-data > li .media img {
+        width: 100%; }
     .list-data > li .list-contents {
       padding: 14px; }
       .list-data > li .list-contents .caption {
@@ -187,7 +192,8 @@ main
       color: #fff;
       text-align: center; }
     .list-data .coverView .coverView-inner {
-      margin-top: 35%;
+      position: relative;
+      top: 50%;
       transform: translateY(-50%); }
     .list-data .coverView:after {
       position: absolute;
@@ -203,7 +209,7 @@ main
 .comment {
   position: relative;
   left: -100%;
-  margin-top: 50px;
+  margin-top: 25px;
   line-height: 1.4; }
 
 .on .coverView {
@@ -467,8 +473,8 @@ Common
     top: 38%;
     font-size: 2rem; }
   canvas {
-    width: 60px;
-    height: 60px; } }
+    width: 80px;
+    height: 80px; } }
 
 @media screen and (min-width: 768px) {/*768~*/
   html {
@@ -510,5 +516,11 @@ Common
 
 @media screen and (max-width: 400px) {
   .list-data .coverView .coverView-inner {
-    margin-top: 46%;
-    font-size: 1.4rem; } }
+    font-size: 1.4rem; }
+  .comment {
+    margin-top: 10px; } }
+
+@media screen and (max-width: 390px) {
+  canvas {
+    width: 60px;
+    height: 60px; } }
