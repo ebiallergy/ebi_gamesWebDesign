@@ -16,7 +16,7 @@
 		"comment": "モンスターが飛び出るような迫力のあるデザインでいい。ただPageSpeedのスコアが以上に低く、先ずは画像の最適化をすべき。",
 		"tmp-publisher": "CAPCOM, Wright Flyer Studios, SQUARE ENIX, Nintendo",
 		"tmp-category": "RPG（ロールプレイングゲーム）, STG（シューティングゲーム）, ACG(アクションゲーム）, ADV（アドベンチャーゲーム）, SLG(シミュレーションゲーム）, PZL（パズルゲーム）",
-		"tmp-model": "Windows, PS4, Switch, iOS, Android"
+		"tmp-model": "Windows, steam, PS4, Switch, iOS, Android"
 	},
 	{
 		"id": 2,
@@ -44,7 +44,7 @@
 		"model": "Windows/PS4",
 		"url": "http://jp.finalfantasyxiv.com/stormblood/",
 		"bgUrl": "http://img.finalfantasyxiv.com/lds/promo/h/5/jMux8ZqzKMhECxQuhgu4NrbqrA.png",
-		"scoreDesign": 8,
+		"scoreDesign": 7,
 		"scoreUsability": 4,
 		"scoreSpeed": 5,
 		"scoreHart": 7,
@@ -81,5 +81,37 @@
 		"scoreSpeed": 5,
 		"scoreHart": 5,
 		"comment": "デザインはffシリーズのwebデザインを踏襲している感じ。ページ遷移も非同期でよいと思うが、どこに飛んでどこにいるのか分からなくなるのがよろしくないかなぁ。"
+	},
+	{
+		"id": 6,
+		"date": "2017.6.21",
+		"title": "ARMS",
+		"caption": "2017年6月16日発売",
+		"publisher": "Nintendo",
+		"category": "ACG",
+		"model": "Switch",
+		"url": "https://www.nintendo.co.jp/switch/aabqa/",
+		"bgUrl": "https://www.nintendo.co.jp/switch/aabqa/sns.png?20170413",
+		"scoreDesign": 8,
+		"scoreUsability": 8,
+		"scoreSpeed": 3,
+		"scoreHart": 7,
+		"comment": "キレイなデザイン。とても丁寧に作られていてスンバラシイ。ただその分重いのはしょうがないのか…。"
+	},
+	{
+		"id": 7,
+		"date": "2017.6.21",
+		"title": "鉄拳7",
+		"caption": "対戦格闘アクションゲーム『鉄拳 7』のホームページ",
+		"publisher": "バンダイナムコエンターテインメント",
+		"category": "ACG",
+		"model": "ps4/xboxONE/steam",
+		"url": "http://www.tk7.tekken-official.jp/",
+		"bgUrl": "http://www.tk7.tekken-official.jp/ogp.png",
+		"scoreDesign": 4,
+		"scoreUsability": 7,
+		"scoreSpeed": 4,
+		"scoreHart": 5,
+		"comment": "鉄拳のゲームサイトにしてはデザインが少し落ち着きすぎな気が。もっと迫力のあるデザインにしてもいいかと。全体的な印象は4年前のwebサイトって感じ。"
 	}
 ]
