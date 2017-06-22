@@ -240,23 +240,24 @@ main
 
 .col-2 {
   display: table;
-  margin-top: 20px;
+  margin-top: 10px;
   width: 100%; }
   .col-2 .col {
     display: table-cell;
     vertical-align: bottom; }
 
-.list-btn li {
-  display: inline-block;
-  margin-left: 5px; }
-  .list-btn li:first-child {
-    margin-left: 0; }
-  .list-btn li .btn-publisher {
-    background: #e1c854; }
-  .list-btn li .btn-category {
-    background: #54e16f; }
-  .list-btn li .btn-model {
-    background: #54b4e1; }
+.list-btn {
+  margin-left: -5px; }
+  .list-btn li {
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px; }
+    .list-btn li .btn-publisher {
+      background: #e1c854; }
+    .list-btn li .btn-category {
+      background: #54e16f; }
+    .list-btn li .btn-model {
+      background: #54b4e1; }
 
 .btn {
   display: inline-block;
