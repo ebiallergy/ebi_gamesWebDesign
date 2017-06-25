@@ -104,7 +104,7 @@ header
       display: -ms-flexbox;
       display: flex;
       margin: 0 auto;
-      padding: 10px 20px;
+      padding: 10px;
       max-width: 1280px;
       width: 100%;
       -ms-flex-align: center;
@@ -485,6 +485,8 @@ Common
 @media screen and (min-width: 768px) {/*768~*/
   html {
     font-size: 70%; }
+  .header .nav .nav-inner {
+    padding: 10px 20px; }
   .header .nav .list-nav {
     display: -ms-flexbox;
     display: flex; }
