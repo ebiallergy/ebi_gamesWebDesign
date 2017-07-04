@@ -14,7 +14,7 @@
 		"scoreSpeed": 2,
 		"scoreHart": 6,
 		"comment": "モンスターが飛び出るような迫力のあるデザインでいい。ただPageSpeedのスコアが以上に低く、先ずは画像の最適化をすべき。",
-		"tmp-publisher": "CAPCOM, Wright Flyer Studios, SQUARE ENIX, Nintendo",
+		"tmp-publisher": "CAPCOM, Wright Flyer Studios, SQUARE ENIX, Nintendo, Mistwalker",
 		"tmp-category": "RPG（ロールプレイングゲーム）, STG（シューティングゲーム）, ACG(アクションゲーム）, ADV（アドベンチャーゲーム）, SLG(シミュレーションゲーム）, PZL（パズルゲーム）",
 		"tmp-model": "Windows, steam, PS4, Switch, 3ds, iOS, Android"
 	},
@@ -129,5 +129,21 @@
 		"scoreSpeed": 3,
 		"scoreHart": 5,
 		"comment": "ps4と3dsで同じゲームなんだけど作りがまったく別という異例のタイトル。webデザインもps4と3dsで青と赤で別の色に切り替えて分かりやすい。文字の読ませ方も良いと思う。"
+	},
+	{
+		"id": 9,
+		"date": "2017.7.5",
+		"title": "Terra Battle 2 by Mistwalker",
+		"caption": "by Mistwalker official website.",
+		"publisher": "Mistwalker",
+		"category": "RPG",
+		"model": "iOS/Android",
+		"url": "http://www.terrabattle2.com/en/",
+		"bgUrl": "http://www.terrabattle2.com/assets/images/ogp.png",
+		"scoreDesign": 7,
+		"scoreUsability": 5,
+		"scoreSpeed": 0,
+		"scoreHart": 7,
+		"comment": "背景の動画風アニメーションjpgと連動してコンテンツが切り替わるのは面白い。見ていてワクワクする。しかし画像がめちゃ重なのでせめて最適的化されては…。"
 	}
 ]
