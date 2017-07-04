@@ -16,7 +16,7 @@
 		"comment": "モンスターが飛び出るような迫力のあるデザインでいい。ただPageSpeedのスコアが以上に低く、先ずは画像の最適化をすべき。",
 		"tmp-publisher": "CAPCOM, Wright Flyer Studios, SQUARE ENIX, Nintendo",
 		"tmp-category": "RPG（ロールプレイングゲーム）, STG（シューティングゲーム）, ACG(アクションゲーム）, ADV（アドベンチャーゲーム）, SLG(シミュレーションゲーム）, PZL（パズルゲーム）",
-		"tmp-model": "Windows, steam, PS4, Switch, iOS, Android"
+		"tmp-model": "Windows, steam, PS4, Switch, 3ds, iOS, Android"
 	},
 	{
 		"id": 2,
@@ -113,5 +113,21 @@
 		"scoreSpeed": 4,
 		"scoreHart": 5,
 		"comment": "鉄拳のゲームサイトにしてはデザインが少し落ち着きすぎな気が。もっと迫力のあるデザインにしてもいいかと。全体的な印象は4年前のwebサイトって感じ。"
+	},
+	{
+		"id": 8,
+		"date": "2017.7.5",
+		"title": "ドラゴンクエストXI",
+		"caption": "『ドラゴンクエストXI　過ぎ去りし時を求めて』",
+		"publisher": "SQUARE ENIX",
+		"category": "RPG",
+		"model": "ps4/3ds",
+		"url": "http://www.dq11.jp/",
+		"bgUrl": "http://www.dq11.jp/sns.png?20170411",
+		"scoreDesign": 6,
+		"scoreUsability": 8,
+		"scoreSpeed": 3,
+		"scoreHart": 5,
+		"comment": "ps4と3dsで同じゲームなんだけど作りがまったく別という異例のタイトル。webデザインもps4と3dsで青と赤で別の色に切り替えて分かりやすい。文字の読ませ方も良いと思う。"
 	}
 ]
