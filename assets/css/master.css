@@ -19,7 +19,11 @@ body {
 
 a {
   color: #337ab7;
-  text-decoration: none; }
+  text-decoration: none;
+  transition: opacity .3s; }
+  a:hover {
+    opacity: .7;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; }
 
 em {
   color: #d00e0e;
@@ -202,6 +206,9 @@ main
       height: 100%;
       color: #fff;
       text-align: center; }
+      .list-data .coverView .bg-coverView:hover {
+        opacity: 1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; }
     .list-data .coverView .coverView-inner {
       position: relative;
       top: 50%;
