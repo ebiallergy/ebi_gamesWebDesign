@@ -178,9 +178,16 @@ main
     color: #fff;
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; }
-    .list-data .coverView .btn-website {
+    .list-data .coverView .btn-share {
       position: absolute;
       right: 20px;
+      bottom: 20px;
+      z-index: 2;
+      background: #fff;
+      color: #000; }
+    .list-data .coverView .btn-website {
+      position: absolute;
+      right: 85px;
       bottom: 20px;
       z-index: 2;
       background: #fff;
