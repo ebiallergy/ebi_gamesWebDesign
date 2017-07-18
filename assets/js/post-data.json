@@ -14,7 +14,7 @@
 		"scoreSpeed": 2,
 		"scoreHart": 6,
 		"comment": "モンスターが飛び出るような迫力のあるデザインでいい。ただPageSpeedのスコアが以上に低く、先ずは画像の最適化をすべき。",
-		"tmp-publisher": "CAPCOM, Wright Flyer Studios, SQUARE ENIX, Nintendo, Mistwalker",
+		"tmp-publisher": "CAPCOM, Wright Flyer Studios, SQUARE ENIX, Nintendo, Mistwalker, Marvelous",
 		"tmp-category": "RPG（ロールプレイングゲーム）, STG（シューティングゲーム）, ACG(アクションゲーム）, ADV（アドベンチャーゲーム）, SLG(シミュレーションゲーム）, PZL（パズルゲーム）",
 		"tmp-model": "Windows, steam, PS4, Switch, 3ds, iOS, Android"
 	},
@@ -145,5 +145,21 @@
 		"scoreSpeed": 0,
 		"scoreHart": 7,
 		"comment": "背景の動画風アニメーションjpgと連動してコンテンツが切り替わるのは面白い。見ていてワクワクする。しかし画像がめちゃ重なのでせめて最適的化されては…。"
+	},
+	{
+		"id": 10,
+		"date": "2017.7.18",
+		"title": "Fate/EXTELLA(フェイト／エクステラ)",
+		"caption": "『Fate/EXTELLA(フェイト／エクステラ)』Nintendo Switch™版が7月20日に発売決定！",
+		"publisher": "Marvelous",
+		"category": "ACG",
+		"model": "",
+		"url": "http://fate-extella.jp/switch/",
+		"bgUrl": "http://fate-extella.jp/switch/images/ogp.jpg?20170414",
+		"scoreDesign": 4,
+		"scoreUsability": 4,
+		"scoreSpeed": 2,
+		"scoreHart": 3,
+		"comment": "スマホからのviewを第一としているせいか、pcから見た際は背景が途切れてるせいでインパクトがいまいち…。一つ一つの装飾（素材？）は悪くないが、色使いが合ってない…。"
 	}
 ]
