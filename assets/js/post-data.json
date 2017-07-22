@@ -14,9 +14,9 @@
 		"scoreSpeed": 2,
 		"scoreHart": 6,
 		"comment": "モンスターが飛び出るような迫力のあるデザインでいい。ただPageSpeedのスコアが以上に低く、先ずは画像の最適化をすべき。",
-		"tmp-publisher": "CAPCOM, Wright Flyer Studios, SQUARE ENIX, Nintendo, Mistwalker, Marvelous",
+		"tmp-publisher": "CAPCOM, Wright Flyer Studios, SQUARE ENIX, Nintendo, Mistwalker, Marvelous, Nippon Ichi Software",
 		"tmp-category": "RPG（ロールプレイングゲーム）, STG（シューティングゲーム）, ACG(アクションゲーム）, ADV（アドベンチャーゲーム）, SLG(シミュレーションゲーム）, PZL（パズルゲーム）",
-		"tmp-model": "Windows, steam, PS4, Switch, 3ds, iOS, Android"
+		"tmp-model": "Windows, steam, PS4, psVita, Switch, 3ds, iOS, Android"
 	},
 	{
 		"id": 2,
@@ -193,5 +193,21 @@
 		"scoreSpeed": 2,
 		"scoreHart": 3,
 		"comment": "スマホからのviewを第一としているせいか、pcから見た際は背景が途切れてるせいでインパクトがいまいち…。一つ一つの装飾（素材？）は悪くないが、色使いが合ってない…。"
+	},
+	{
+		"id": 13,
+		"date": "2017.7.22",
+		"title": "深夜廻（しんよまわり）",
+		"caption": "2017年8月24日発売予定 夜道探索アクション「深夜廻」の公式サイトです。-あなたを さらいに 夜がくる-",
+		"publisher": "Nippon Ichi Software",
+		"category": "ADV",
+		"model": "PS4/psVita",
+		"url": "http://nippon1.jp/consumer/shin_yomawari/",
+		"bgUrl": "http://nippon1.jp/consumer/shin_yomawari/img/sns_card.png",
+		"scoreDesign": 10,
+		"scoreUsability": 7,
+		"scoreSpeed": 4,
+		"scoreHart": 10,
+		"comment": "久々にゲーム性先行ではなく、webサイト先行でゲームをやりたいと思った。ゲーム内に近い環境をwebトップで再現しており、単純に動画を流すのではなく、一つ一つの要素を丁寧にフロントエンドで作られている。例え制作時間が一ヶ月丸々与えられたとしても今の自分じゃ作れる自信がない…。精進だ"
 	}
 ]
