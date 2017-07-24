@@ -14,7 +14,7 @@
 		"scoreSpeed": 2,
 		"scoreHart": 6,
 		"comment": "モンスターが飛び出るような迫力のあるデザインでいい。ただPageSpeedのスコアが以上に低く、先ずは画像の最適化をすべき。",
-		"tmp-publisher": "CAPCOM, Wright Flyer Studios, SQUARE ENIX, Nintendo, Mistwalker, Marvelous, Nippon Ichi Software",
+		"tmp-publisher": "CAPCOM, Wright Flyer Studios, SQUARE ENIX, Nintendo, Mistwalker, Marvelous, Nippon Ichi Software, SPIKE CHUNSOFT",
 		"tmp-category": "RPG（ロールプレイングゲーム）, STG（シューティングゲーム）, ACG(アクションゲーム）, ADV（アドベンチャーゲーム）, SLG(シミュレーションゲーム）, PZL（パズルゲーム）",
 		"tmp-model": "Windows, steam, PS4, psVita, Switch, 3ds, iOS, Android"
 	},
@@ -209,5 +209,21 @@
 		"scoreSpeed": 4,
 		"scoreHart": 10,
 		"comment": "久々にゲーム性先行ではなく、webサイト先行でゲームをやりたいと思った。ゲーム内に近い環境をwebトップで再現しており、単純に動画を流すのではなく、一つ一つの要素を丁寧にフロントエンドで作られている。例え制作時間が一ヶ月丸々与えられたとしても今の自分じゃ作れる自信がない…。精進だ"
+	},
+	{
+		"id": 14,
+		"date": "2017.7.24",
+		"title": "KOJIMA PRODUCTIONS",
+		"caption": "From Sapiens to Ludens.",
+		"publisher": "KOJIMA PRODUCTIONS",
+		"category": "ADV",
+		"model": "PS4",
+		"url": "http://www.kojimaproductions.jp/index.html#index",
+		"bgUrl": "http://www.kojimaproductions.jp/img/ogp.jpg",
+		"scoreDesign": 10,
+		"scoreUsability": 8,
+		"scoreSpeed": 5,
+		"scoreHart": 10,
+		"comment": "ゲームタイトルのwebサイトではないが、記載したかったもの。デザイン、動き共々文句なしの素晴らしいです。憶測でしかないですが作ったのは恐らくシフトブレインで、良くも悪くも彼らが今まで作ったサイトと似たようなデザイン、アニメーションの動きをしているのでそうじゃないかと。キレイなんですけどね"
 	}
 ]

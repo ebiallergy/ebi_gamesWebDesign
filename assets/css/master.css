@@ -114,14 +114,13 @@ header
       -ms-flex-align: center;
           align-items: center; }
     .header .nav .hdg-l1 {
-      -ms-flex-positive: 10;
-          flex-grow: 10; }
+      margin-right: auto; }
     .header .nav .list-nav {
-      display: none;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
-      -ms-flex-pack: justify;
-          justify-content: space-between; }
+      display: none; }
+      .header .nav .list-nav li {
+        margin-left: 12px; }
+        .header .nav .list-nav li:first-child {
+          margin-left: 0; }
   .header .mv {
     display: -ms-flexbox;
     display: flex;
