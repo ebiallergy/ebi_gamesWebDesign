@@ -225,5 +225,21 @@
 		"scoreSpeed": 5,
 		"scoreHart": 10,
 		"comment": "ゲームタイトルのwebサイトではないが、記載したかったもの。デザイン、動き共々文句なしの素晴らしいです。憶測でしかないですが作ったのは恐らくシフトブレインで、良くも悪くも彼らが今まで作ったサイトと似たようなデザイン、アニメーションの動きをしているのでそうじゃないかと。キレイなんですけどね"
+	},
+	{
+		"id": 15,
+		"date": "2017.9.9",
+		"title": "メトロイド サムスリターンズ | ニンテンドー3DS | 任天堂",
+		"caption": "2017年9月15日発売",
+		"publisher": "Nintendo",
+		"category": "Nintendo",
+		"model": "3ds",
+		"url": "https://www.nintendo.co.jp/3ds/a9aj/pc/index.html",
+		"bgUrl": "https://www.nintendo.co.jp/3ds/a9aj/sns.png",
+		"scoreDesign": 8,
+		"scoreUsability": 8,
+		"scoreSpeed": 3,
+		"scoreHart": 7,
+		"comment": "デザインにゲーム性が反映されていてかっこいい。背景のデザインも一つ一つかっこいい。"
 	}
 ]
