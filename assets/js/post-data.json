@@ -232,7 +232,7 @@
 		"title": "メトロイド サムスリターンズ",
 		"caption": "2017年9月15日発売",
 		"publisher": "Nintendo",
-		"category": "Nintendo",
+		"category": "ACG",
 		"model": "3ds",
 		"url": "https://www.nintendo.co.jp/3ds/a9aj/pc/index.html",
 		"bgUrl": "https://www.nintendo.co.jp/3ds/a9aj/sns.png",
@@ -241,5 +241,37 @@
 		"scoreSpeed": 3,
 		"scoreHart": 7,
 		"comment": "デザインにゲーム性が反映されていてかっこいい。背景のデザインも一つ一つかっこいい。設計視点からするともう…　自信なくす…　vh,calc使ったことないし、その便利さをこれをきっかけに知ったし、一つ一つの実装が勉強になる。jsも、自分はメソッド単位で即時関数で実行していたけど、頭にメソッド固めて、docRedyでまとめて実行がいいのかな"
+	},
+	{
+		"id": 16,
+		"date": "2017.10.28",
+		"title": "Girls Mode 4 スター☆スタイリスト ",
+		"caption": "2017年11月2日（木）発売 ニンテンドー3DS『Girls Mode 4 スター☆スタイリスト』をご紹介します。",
+		"publisher": "Nintendo",
+		"category": "RPG",
+		"model": "3ds",
+		"url": "https://www.nintendo.co.jp/3ds/ajbj/pc/index.html",
+		"bgUrl": "https://www.nintendo.co.jp/3ds/ajbj/sns.png",
+		"scoreDesign": 7,
+		"scoreUsability": 6,
+		"scoreSpeed": 5,
+		"scoreHart": 7,
+		"comment": "デザインがゲームに合っていて且つ、見やすいです。行き過ぎたデザインではなく、ほどよくスタイリッシュさがでていていいと思います。アニメーションも多く、軽やかなのもgood。ただfontが丸系なのはよいとは思いますが、違うもうちょっと細めの丸系fontの方がよかったかも。好みの問題ですが"
+	},
+	{
+		"id": 17,
+		"date": "2017.10.28",
+		"title": "スーパーマリオ オデッセイ",
+		"caption": "マリオ、世界の旅へ。2017年10月27日（金）発売、Nintendo Switchソフト『スーパーマリオ オデッセイ』の公式サイトです。",
+		"publisher": "Nintendo",
+		"category": "RPG",
+		"model": "Switch",
+		"url": "https://www.nintendo.co.jp/switch/aaaca/index.html",
+		"bgUrl": "https://www.nintendo.co.jp/switch/aaaca/sns.png?20171006",
+		"scoreDesign": 10,
+		"scoreUsability": 7,
+		"scoreSpeed": 4,
+		"scoreHart": 10,
+		"comment": "初期の段階から見てましたが、見る度にデザインが一新されていてびっくり。追加の情報を単純に追加するのではなく、デザインを変えてしまうさすがの力の入れよう。ページ内の遊びギミックとして、ピーチの曲が聞けるサウンドをのon/offを37回繰り返すと…！みたいな記事をみて、jsをみたら37、1027、3737、20171027回目の時だけテキストを日本語にして曲が日本語Verになる仕組みが入ってました。"
 	}
 ]

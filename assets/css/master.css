@@ -97,10 +97,10 @@ header
       width: 100%;
       height: 100%; }
     .header .bg-header .bg-header-01 {
-      background: url(../img/ss/0.jpg) no-repeat center top;
+      background: url(../img/ss/1.jpg) no-repeat center top;
       background-size: cover; }
     .header .bg-header .bg-header-02 {
-      background: url(../img/ss/1.jpg) no-repeat center top;
+      background: url(../img/ss/0.jpg) no-repeat center top;
       background-size: cover; }
   .header .nav {
     background: rgba(0, 0, 0, 0.8); }
